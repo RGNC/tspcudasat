@@ -48,8 +48,6 @@ Type ./tsp -h to list the different options.
 ----------
 ## 4. Downloads ##
 
-[TSPCUDASAT Files](http://sourceforge.net/projects/pmcgpu/files/TSPCUDASAT/)
-
 [Required Counterslib library](http://sourceforge.net/projects/pmcgpu/files/counterslib)
 
 Read the howto.pdf (extract from Miguel A. Martínez-del-Amor's thesis) for futher information about the simulators. It is in the [root folder of files of PMCGPU](http://sourceforge.net/projects/pmcgpu/files).
